@@ -1,0 +1,89 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "5e7ccb1e-f9aa-4e28-a2d3-82e9e93708ee")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 68.58 173.99)
+		(size 40.64 6.35)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "2e1caaee-3dd4-40fd-9473-f2d19f671895")
+		(property "Sheetname" "Logic"
+			(at 68.58 173.2784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Logic.kicad_sch"
+			(at 68.58 180.9246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Kadett_Radio"
+				(path "/5e7ccb1e-f9aa-4e28-a2d3-82e9e93708ee"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 22.86 176.53)
+		(size 19.05 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e6ba3e03-6566-451f-b51b-c17f91c47faa")
+		(property "Sheetname" "Power"
+			(at 22.86 175.8184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power.kicad_sch"
+			(at 22.86 180.9246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Kadett_Radio"
+				(path "/5e7ccb1e-f9aa-4e28-a2d3-82e9e93708ee"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
